@@ -1,2 +1,2 @@
 print ("alguma coisa")
-print (" oi")
+print ("oi")
